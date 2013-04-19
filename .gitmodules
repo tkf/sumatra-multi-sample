@@ -1,0 +1,6 @@
+[submodule "project-a"]
+	path = project-a
+	url = git://github.com/tkf/sumatra-sample.git
+[submodule "project-b"]
+	path = project-b
+	url = git://github.com/tkf/sumatra-sample.git
